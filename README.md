@@ -1,4 +1,4 @@
-# Rust Programming Challenges
+# Rust Challenges Course
 
 ![](https://github.com/jusexton/rust-challenges/workflows/build/badge.svg)
 
