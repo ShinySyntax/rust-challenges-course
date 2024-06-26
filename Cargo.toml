@@ -1,14 +1,41 @@
-[package]
-name = "rust-challenges"
-version = "0.1.0"
-authors = ["Justin Sexton <justinsexton.dev@gmail.com>"]
-edition = "2018"
+[workspace]
+members = [
+    "easy/solve-me-first",
+    "easy/simple-array-sum",
+    "easy/compare-the-triplets",
+    "easy/a-very-big-sum",
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+    "medium/magic-square-forming",
+    "medium/climbing-the-leaderboard",
+    "medium/extra-long-factorials",
+    "medium/non-divisible-subset",
+    "medium/queens-attack2",
+    "medium/the-time-in-words",
+    "medium/bigger-is-greater",
+    "medium/threed-surface-area",
+    "medium/bear-and-steady-gene",
+    "medium/minimum-loss",
+    "medium/connected-cell-in-grid",
+    "medium/short-palindrome",
+    "medium/gena-playing-hanoi",
+    "medium/roads-and-libraries",
+    "medium/journey-to-moon",
+    "medium/really-special-subtree",
+    "medium/snakes-and-ladders",
+    "medium/shortest-reach",
+    "medium/special-subtree",
+    "medium/larry-array",
+    "medium/sherlock-and-anagrams",
+    "medium/coin-change",
+    "medium/pairs",
+    "medium/red-john-is-back",
+    "medium/stock-maximize",
+    "medium/longest-common-subsequence",
 
-[dependencies]
-regex = "1"
-rand = "0.8.5"
+    "hard/matrix-rotation-algo",
+    "hard/morgan-and-string",
+    "hard/bead-ornaments",
+    "hard/string-similarity"
+]
 
-[dev-dependencies]
-test-case = "3.2.1"
+resolver = "2"
