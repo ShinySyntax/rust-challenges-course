@@ -7,6 +7,10 @@ name = "a-very-big-sum"
 version = "0.1.0"
 
 [[package]]
+name = "abbreviation"
+version = "0.1.0"
+
+[[package]]
 name = "bead-ornaments"
 version = "0.1.0"
 
@@ -24,6 +28,10 @@ version = "0.1.0"
 
 [[package]]
 name = "coin-change"
+version = "0.1.0"
+
+[[package]]
+name = "common-child"
 version = "0.1.0"
 
 [[package]]
@@ -48,6 +56,10 @@ version = "0.1.0"
 
 [[package]]
 name = "larry-array"
+version = "0.1.0"
+
+[[package]]
+name = "lego-blocks"
 version = "0.1.0"
 
 [[package]]
@@ -79,6 +91,10 @@ name = "pairs"
 version = "0.1.0"
 
 [[package]]
+name = "play-with-words"
+version = "0.1.0"
+
+[[package]]
 name = "queens-attack2"
 version = "0.1.0"
 
@@ -92,6 +108,10 @@ version = "0.1.0"
 
 [[package]]
 name = "roads-and-libraries"
+version = "0.1.0"
+
+[[package]]
+name = "sam-substrings"
 version = "0.1.0"
 
 [[package]]
@@ -136,4 +156,8 @@ version = "0.1.0"
 
 [[package]]
 name = "threed-surface-area"
+version = "0.1.0"
+
+[[package]]
+name = "unbounded-knapsack"
 version = "0.1.0"
